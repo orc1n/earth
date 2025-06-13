@@ -1,0 +1,6 @@
+[submodule "north_america/usa"]
+	path = north_america/usa
+	url = https://github.com/orc1n/usa
+[submodule "europe/sweden"]
+	path = europe/sweden
+	url = https://github.com/orc1n/sweden
