@@ -4,3 +4,6 @@
 [submodule "europe/sweden"]
 	path = europe/sweden
 	url = https://github.com/orc1n/sweden
+[submodule "europe/poland"]
+	path = europe/poland
+	url = https://github.com/orc1n/poland
